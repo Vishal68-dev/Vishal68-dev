@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect with Me  
-- GitHub: [github.com/your-username](https://github.com/Vishal68-dev)  
+- GitHub: [https://github.com/Vishal68-dev](https://github.com/Vishal68-dev)  
 - LinkedIn: [www.linkedin.com/in/vishal-gupta-68-](https://www.linkedin.com/in/vishal-gupta-68-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - Email: vishal2006shaw@gmail.com 
 
