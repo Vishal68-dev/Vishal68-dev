@@ -25,7 +25,7 @@
 
 ### 📫 Connect with Me  
 - GitHub: [github.com/your-username](https://github.com/Vishal68-dev)  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/vishal-gupta-68-)  
+- LinkedIn: [www.linkedin.com/in/vishal-gupta-68-](www.linkedin.com/in/vishal-gupta-68-)  
 - Email: vishal2006shaw@gmail.com 
 
 ⭐️ *"Code, Learn, Build, Repeat"* 
